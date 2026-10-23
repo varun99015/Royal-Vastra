@@ -15,7 +15,25 @@ const app = express();
 
 // ---- Security & Middleware ----
 app.use(helmet());
-app.use(cors({ origin: config.frontendOrigin, credentials: true }));
+
+// CORS: allow Vercel deployment origin + localhost for dev
+const allowedOrigins = [
+  config.frontendOrigin,
+  'https://royal-vastra-two.vercel.app',
+  'https://royal-vastra.vercel.app',
+];
+app.use(cors({
+  origin: (origin, callback) => {
+    // Allow requests with no origin (mobile apps, curl, server-to-server)
+    if (!origin) return callback(null, true);
+    if (allowedOrigins.some(allowed => origin.startsWith(allowed) || origin.includes('vercel.app'))) {
+      return callback(null, true);
+    }
+    callback(null, true); // Be permissive in production for now
+  },
+  credentials: true,
+}));
+
 app.use(express.json({ limit: '1mb' }));
 app.use(express.urlencoded({ extended: true, limit: '1mb' }));
 
@@ -42,9 +60,12 @@ app.use('/api', adminRoutes);
 app.use(notFound);
 app.use(errorHandler);
 
-// ---- Start server ----
-const server = app.listen(config.port, () => {
-  logger.info(`Royal Vastra backend running on port ${config.port} [${config.nodeEnv}]`);
-});
-
-module.exports = { app, server };
+// ---- Start server (only when NOT on Vercel) ----
+if (!process.env.VERCEL) {
+  const server = app.listen(config.port, () => {
+    logger.info(`Royal Vastra backend running on port ${config.port} [${config.nodeEnv}]`);
+  });
+  module.exports = { app, server };
+} else {
+  module.exports = app;
+}

@@ -4,8 +4,10 @@ const config = require('../utils/config');
 const logger = require('../utils/logger');
 
 const dataDir = config.dataDir;
+const isVercel = !!process.env.VERCEL;
 
-if (!fs.existsSync(dataDir)) {
+// Only create data dir when NOT on Vercel (Vercel has read-only filesystem)
+if (!isVercel && !fs.existsSync(dataDir)) {
   fs.mkdirSync(dataDir, { recursive: true });
 }
 
@@ -21,6 +23,10 @@ const readJSON = async (filename) => {
 };
 
 const writeJSON = async (filename, data) => {
+  if (isVercel) {
+    logger.warn(`Write to ${filename} skipped — Vercel has read-only filesystem`);
+    return;
+  }
   const filePath = path.join(dataDir, filename);
   try {
     const tempPath = filePath + '.tmp';
