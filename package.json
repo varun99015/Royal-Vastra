@@ -1,0 +1,24 @@
+{
+  "name": "royal-vastra",
+  "version": "1.0.0",
+  "description": "Royal Vastra — Premium Men's Ethnic Wear E-Commerce Platform",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && npm install --prefix backend && npm install --prefix frontend",
+    "server": "npm --prefix backend start",
+    "server:dev": "npm --prefix backend run dev",
+    "client": "npm --prefix frontend run dev",
+    "build:client": "npm --prefix frontend run build",
+    "seed": "npm --prefix backend run seed",
+    "dev": "node run-dev.js"
+  },
+  "keywords": [
+    "ethnic-wear",
+    "menswear",
+    "sherwani",
+    "kurta",
+    "ecommerce"
+  ],
+  "author": "Royal Vastra",
+  "license": "MIT"
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "admin",
+    "email": "admin@royalvastra.com",
+    "name": "Store Administrator",
+    "passwordHash": "$2a$10$m.2zdGIol.7Y1bVEk/WPgORouNZ4uOR23A6l4ph7eoKHfaCOOvGoy",
+    "role": "admin",
+    "createdAt": 1792737351448
+  },
+  {
+    "admin": [
+      {
+        "id": "admin",
+        "email": "admin@royalvastras.com",
+        "name": "Store Administrator",
+        "role": "admin",
+        "createdAt": 1700000000000
+      }
+    ]
+  }
+]

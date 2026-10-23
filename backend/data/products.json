@@ -1,0 +1,1285 @@
+[
+  {
+    "id": "kurta-001",
+    "slug": "classic-ivory-cotton-kurta",
+    "name": "Classic Ivory Slub Cotton Kurta",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Cotton Daily-Wear Kurtas",
+    "description": "Handcrafted from breathable organic slub cotton with a refined mandarin collar and concealed placket. Perfect for intimate family gatherings, festive mornings, and daily elegance.",
+    "price": 799,
+    "originalPrice": 1299,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=800&q=80",
+      "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=800&q=80"
+    ],
+    "colors": [
+      "Ivory",
+      "Soft Sand",
+      "Light Olive"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 42,
+    "fabric": "100% Slub Cotton",
+    "occasion": [
+      "Casual",
+      "Pooja & Traditional Occasions",
+      "Festivals & Family Celebrations"
+    ],
+    "badge": "Bestseller",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717000000000
+  },
+  {
+    "id": "kurta-002",
+    "slug": "saffron-jaipuri-printed-kurta",
+    "name": "Saffron Jaipuri Block Printed Kurta",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Printed Kurtas",
+    "description": "Artisanal hand-block botanical motifs printed on fine mulmul cotton. Features mother-of-pearl buttons and relaxed side slits.",
+    "price": 899,
+    "originalPrice": 1499,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?w=800&q=80",
+      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=800&q=80"
+    ],
+    "colors": [
+      "Saffron Ochre",
+      "Indigo Blue",
+      "Mint Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 35,
+    "fabric": "Mulmul Cotton",
+    "occasion": [
+      "Casual",
+      "Festivals & Family Celebrations"
+    ],
+    "badge": "Festive Pick",
+    "isNew": true,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717100000000
+  },
+  {
+    "id": "kurta-003",
+    "slug": "sage-linen-blend-short-kurta",
+    "name": "Sage Green Linen-Blend Short Kurta",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Short Kurtas",
+    "description": "Modern short-length kurta tailored from crisp European linen-cotton blend. Designed with roll-up sleeve tabs for contemporary styling with chinos or denim.",
+    "price": 999,
+    "originalPrice": 1599,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=800&q=80",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80"
+    ],
+    "colors": [
+      "Sage Green",
+      "Desert Sand",
+      "Sky Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 28,
+    "fabric": "Linen Cotton Blend",
+    "occasion": [
+      "Casual",
+      "Pooja & Traditional Occasions"
+    ],
+    "badge": "New",
+    "isNew": true,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1717200000000
+  },
+  {
+    "id": "kurta-004",
+    "slug": "royal-navy-kurta-pajama-set",
+    "name": "Royal Navy Blue Kurta Pajama Set",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Kurta-Pajama Sets",
+    "description": "Complete traditional ensemble featuring a lustrous navy kurta with intricate tonal piping paired with tailored ivory churidar trousers.",
+    "price": 1499,
+    "originalPrice": 2299,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?w=800&q=80",
+      "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=800&q=80"
+    ],
+    "colors": [
+      "Royal Navy",
+      "Maroon Crimson",
+      "Midnight Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 50,
+    "fabric": "Silk Blend Cotton",
+    "occasion": [
+      "Festivals & Family Celebrations",
+      "Pooja & Traditional Occasions",
+      "Wedding Ceremonies"
+    ],
+    "badge": "Bestseller",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1716900000000
+  },
+  {
+    "id": "kurta-005",
+    "slug": "chikankari-embroidered-lucknowi-kurta",
+    "name": "Lucknowi Chikankari Embroidered Kurta",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Embroidered Kurtas",
+    "description": "Authentic shadow-work Chikankari hand embroidery on lightweight georgette with pure cotton inner lining. An heirloom aesthetic for festive rituals.",
+    "price": 1899,
+    "originalPrice": 2799,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=800&q=80",
+      "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=800&q=80"
+    ],
+    "colors": [
+      "Powder Blue",
+      "Pearl White",
+      "Pastel Peach"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 19,
+    "fabric": "Fine Georgette & Cotton",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Festivals & Family Celebrations",
+      "Pooja & Traditional Occasions"
+    ],
+    "badge": "Artisanal",
+    "isNew": true,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717300000000
+  },
+  {
+    "id": "kurta-006",
+    "slug": "afghani-cut-pathani-suit",
+    "name": "Afghani Heritage Pathani Suit",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Pathani Suits",
+    "description": "Regal double-pocket Pathani kurta with pointed shoulder epaulets, rolled cuffs, and gathered relaxed shalwar bottom. Imposing yet comfortable.",
+    "price": 1699,
+    "originalPrice": 2499,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=800&q=80",
+      "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=800&q=80"
+    ],
+    "colors": [
+      "Charcoal Black",
+      "Military Olive",
+      "Raw Silk Beige"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 24,
+    "fabric": "Spun Viscose Cotton",
+    "occasion": [
+      "Festivals & Family Celebrations",
+      "Casual"
+    ],
+    "badge": "Heritage",
+    "isNew": false,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1716800000000
+  },
+  {
+    "id": "kurta-007",
+    "slug": "tussar-silk-kurta-with-churidar",
+    "name": "Tussar Silk Kurta with Churidar",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Silk Kurtas",
+    "description": "Rich golden Tussar raw silk kurta with textured slub finish, side pocket insets, and matching drawstring churidar.",
+    "price": 2499,
+    "originalPrice": 3499,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=800&q=80"
+    ],
+    "colors": [
+      "Golden Beige",
+      "Ruby Maroon",
+      "Teal Blue"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 16,
+    "fabric": "Tussar Raw Silk",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Engagement & Reception"
+    ],
+    "badge": "Pure Silk Blend",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1716700000000
+  },
+  {
+    "id": "kurta-008",
+    "slug": "textured-cotton-daily-kurta-under-999",
+    "name": "Textured Khadi Cotton Casual Kurta",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Cotton Daily-Wear Kurtas",
+    "description": "Everyday breathable khadi cotton kurta with understated contrast wooden buttons. Natural, relaxed, and pre-shrunk.",
+    "price": 649,
+    "originalPrice": 899,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80"
+    ],
+    "colors": [
+      "Earthy Tan",
+      "Off-White",
+      "Slate Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 60,
+    "fabric": "Khadi Cotton",
+    "occasion": [
+      "Casual",
+      "Pooja & Traditional Occasions"
+    ],
+    "badge": "Under ₹999",
+    "isNew": false,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1716600000000
+  },
+  {
+    "id": "sherwani-001",
+    "slug": "royal-ivory-raw-silk-groom-sherwani",
+    "name": "Royal Ivory Raw Silk Groom Sherwani Ensemble",
+    "brand": "Royal Vastra",
+    "category": "Sherwanis & Wedding Wear",
+    "subcategory": "Groom Sherwanis",
+    "description": "Exquisite bridal groom sherwani crafted in raw Banarasi silk with intricate zardozi, French wire, and sequin hand-embroidery along the collar and cuffs. Complete with matching stole and silk churidar.",
+    "price": 11999,
+    "originalPrice": 16999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&q=80",
+      "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=800&q=80"
+    ],
+    "colors": [
+      "Royal Ivory",
+      "Champagne Gold",
+      "Blush Cream"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 8,
+    "fabric": "Banarasi Raw Silk & Zardozi",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Engagement & Reception"
+    ],
+    "badge": "Groom Collection",
+    "isNew": true,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717400000000
+  },
+  {
+    "id": "sherwani-002",
+    "slug": "emerald-green-embroidered-wedding-sherwani",
+    "name": "Emerald Green Velvet Wedding Guest Sherwani",
+    "brand": "Royal Vastra",
+    "category": "Sherwanis & Wedding Wear",
+    "subcategory": "Wedding Guest Sherwanis",
+    "description": "Luxurious micro-velvet sherwani in jewel-tone emerald green accented with subtle antique gold threadwork on lapels and placket. Ideal for winter baraat and sangeet night.",
+    "price": 5499,
+    "originalPrice": 7999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?w=800&q=80",
+      "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=800&q=80"
+    ],
+    "colors": [
+      "Emerald Green",
+      "Midnight Blue",
+      "Deep Wine"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 14,
+    "fabric": "Micro Velvet & Silk",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Engagement & Reception",
+      "Formal & Evening Events"
+    ],
+    "badge": "Festive Pick",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717050000000
+  },
+  {
+    "id": "sherwani-003",
+    "slug": "classic-achkan-sherwani-set",
+    "name": "Classic Nawabi Achkan Outfit",
+    "brand": "Royal Vastra",
+    "category": "Sherwanis & Wedding Wear",
+    "subcategory": "Achkan Outfits",
+    "description": "Tailored Mughal-inspired knee-length achkan with structured chest canvas, jewel metal buttons, and tapered trousers. An icon of understated royal power.",
+    "price": 4499,
+    "originalPrice": 5999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&q=80",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80"
+    ],
+    "colors": [
+      "Jet Black",
+      "Pristine Ivory",
+      "Charcoal Slate"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 18,
+    "fabric": "Italian Poly-Wool & Silk",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Formal & Evening Events"
+    ],
+    "badge": "Signature",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1716950000000
+  },
+  {
+    "id": "sherwani-004",
+    "slug": "brocade-indo-western-wedding-outfit",
+    "name": "Brocade Indo-Western Layered Wedding Ensemble",
+    "brand": "Royal Vastra",
+    "category": "Sherwanis & Wedding Wear",
+    "subcategory": "Indo-Western Wedding Outfits",
+    "description": "Dual-layered festive Indo-Western outfit pairing a metallic jacquard outer coat with asymmetric pleated inner kurta and fitted breeches.",
+    "price": 6299,
+    "originalPrice": 8499,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1607346256330-dee7af15f7c5?w=800&q=80"
+    ],
+    "colors": [
+      "Antique Gold & Maroon",
+      "Silver & Midnight Blue"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 11,
+    "fabric": "Jacquard Brocade",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Engagement & Reception"
+    ],
+    "badge": "Bestseller",
+    "isNew": true,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717350000000
+  },
+  {
+    "id": "sherwani-005",
+    "slug": "embroidered-wedding-waistcoat",
+    "name": "Zari Embroidered Silk Wedding Waistcoat",
+    "brand": "Royal Vastra",
+    "category": "Sherwanis & Wedding Wear",
+    "subcategory": "Wedding Waistcoats",
+    "description": "Opulent silk waistcoat richly woven with Kashmiri floral zari motifs. Instant upgrade over any simple kurta for weddings and sangeet.",
+    "price": 1499,
+    "originalPrice": 2199,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800&q=80"
+    ],
+    "colors": [
+      "Mustard Gold",
+      "Wine Burgundy",
+      "Deep Sage"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 38,
+    "fabric": "Art Silk Jacquard",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Festivals & Family Celebrations"
+    ],
+    "badge": "Festive Pick",
+    "isNew": false,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1716850000000
+  },
+  {
+    "id": "sherwani-006",
+    "slug": "blush-peach-pastel-groom-sherwani",
+    "name": "Pastel Blush & Zari Threadwork Groom Sherwani",
+    "brand": "Royal Vastra",
+    "category": "Sherwanis & Wedding Wear",
+    "subcategory": "Groom Sherwanis",
+    "description": "On-trend pastel blush sherwani embellished with matte gold resham and pearl work. Designed for contemporary destination weddings and day pheras.",
+    "price": 9499,
+    "originalPrice": 13999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&q=80"
+    ],
+    "colors": [
+      "Blush Peach",
+      "Powder Cream",
+      "Mint Sage"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 7,
+    "fabric": "Chanderi Silk & Resham",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Engagement & Reception"
+    ],
+    "badge": "Groom's Choice",
+    "isNew": true,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1717450000000
+  },
+  {
+    "id": "formal-001",
+    "slug": "imperial-black-jodhpuri-suit",
+    "name": "Imperial Black Jodhpuri Bandhgala Suit",
+    "brand": "Royal Vastra",
+    "category": "Traditional Formal Wear",
+    "subcategory": "Jodhpuri Suits",
+    "description": "Tailored with equestrian precision, this structured bandhgala features sharp hand-stitched pick lapels, monogram brass crested buttons, and tapered matching trousers.",
+    "price": 4999,
+    "originalPrice": 6999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80",
+      "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80"
+    ],
+    "colors": [
+      "Imperial Black",
+      "Midnight Blue",
+      "Charcoal Anthracite"
+    ],
+    "sizes": [
+      "38 (S)",
+      "40 (M)",
+      "42 (L)",
+      "44 (XL)"
+    ],
+    "stock": 20,
+    "fabric": "Worsted Poly-Wool Blend",
+    "occasion": [
+      "Formal & Evening Events",
+      "Engagement & Reception",
+      "Wedding Ceremonies"
+    ],
+    "badge": "Bestseller",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1716650000000
+  },
+  {
+    "id": "formal-002",
+    "slug": "khadi-silk-nehru-jacket",
+    "name": "Handloom Khadi Silk Nehru Jacket",
+    "brand": "Royal Vastra",
+    "category": "Traditional Formal Wear",
+    "subcategory": "Nehru Jackets",
+    "description": "Versatile sleeveless bandi crafted from hand-spun khadi silk. Features a breast pocket for a pocket square and side vents for comfort.",
+    "price": 1199,
+    "originalPrice": 1899,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800&q=80",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800&q=80"
+    ],
+    "colors": [
+      "Mustard Yellow",
+      "Olive Sage",
+      "Brick Rust",
+      "Ivory"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 45,
+    "fabric": "Handloom Khadi Silk",
+    "occasion": [
+      "Pooja & Traditional Occasions",
+      "Festivals & Family Celebrations",
+      "Formal & Evening Events"
+    ],
+    "badge": "Affordable Luxury",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1716750000000
+  },
+  {
+    "id": "formal-003",
+    "slug": "regal-velvet-embroidered-bandhgala",
+    "name": "Regal Midnight Velvet Bandhgala",
+    "brand": "Royal Vastra",
+    "category": "Traditional Formal Wear",
+    "subcategory": "Bandhgala Suits",
+    "description": "Deep midnight blue micro-velvet tailored jacket with hand-embroidered collar and welt pockets. Commands presence at gala dinners and receptions.",
+    "price": 5299,
+    "originalPrice": 7499,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?w=800&q=80"
+    ],
+    "colors": [
+      "Midnight Blue",
+      "Garnet Red",
+      "Forest Green"
+    ],
+    "sizes": [
+      "38 (S)",
+      "40 (M)",
+      "42 (L)",
+      "44 (XL)"
+    ],
+    "stock": 12,
+    "fabric": "Plush Velvet & Silk Lining",
+    "occasion": [
+      "Formal & Evening Events",
+      "Engagement & Reception"
+    ],
+    "badge": "Signature",
+    "isNew": true,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717250000000
+  },
+  {
+    "id": "formal-004",
+    "slug": "raw-silk-kurta-with-embroidered-waistcoat",
+    "name": "Raw Silk Kurta with Embroidered Waistcoat Set",
+    "brand": "Royal Vastra",
+    "category": "Traditional Formal Wear",
+    "subcategory": "Kurta with Waistcoat",
+    "description": "A 3-piece curated ensemble: beige raw silk kurta, matching churidar, and an intricately woven brocade waistcoat. Coordinates effortlessly.",
+    "price": 2799,
+    "originalPrice": 3999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?w=800&q=80"
+    ],
+    "colors": [
+      "Beige & Gold",
+      "Navy & Silver",
+      "Wine & Gold"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 26,
+    "fabric": "Raw Silk & Brocade",
+    "occasion": [
+      "Festivals & Family Celebrations",
+      "Pooja & Traditional Occasions",
+      "Wedding Ceremonies"
+    ],
+    "badge": "3-Piece Set",
+    "isNew": false,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1716800000000
+  },
+  {
+    "id": "formal-005",
+    "slug": "jacquard-festive-ceremonial-jacket",
+    "name": "Banarasi Jacquard Festive Ceremonial Jacket",
+    "brand": "Royal Vastra",
+    "category": "Traditional Formal Wear",
+    "subcategory": "Festive Jackets",
+    "description": "Woven with golden meenakari motifs across a rich textured weave. Designed to be styled over silk kurtas or bandhgala shirts.",
+    "price": 1899,
+    "originalPrice": 2699,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800&q=80"
+    ],
+    "colors": [
+      "Maroon & Gold",
+      "Teal & Silver"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 30,
+    "fabric": "Banarasi Jacquard",
+    "occasion": [
+      "Festivals & Family Celebrations",
+      "Engagement & Reception"
+    ],
+    "badge": "Festive Pick",
+    "isNew": true,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1717150000000
+  },
+  {
+    "id": "indowest-001",
+    "slug": "asymmetric-drape-kurta-set",
+    "name": "Asymmetrical Drape Kurta & Slim Trouser Set",
+    "brand": "Royal Vastra",
+    "category": "Indo-Western Outfits",
+    "subcategory": "Asymmetrical Drape Sets",
+    "description": "Architectural cowl drape hem kurta with concealed zipper and diagonal button closure. Paired with ankle-length stretch cigarette trousers.",
+    "price": 3199,
+    "originalPrice": 4499,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800&q=80",
+      "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?w=800&q=80"
+    ],
+    "colors": [
+      "Charcoal Grey",
+      "Plum Burgundy",
+      "Off-White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 22,
+    "fabric": "Spun Modal Silk",
+    "occasion": [
+      "Engagement & Reception",
+      "Formal & Evening Events",
+      "Festivals & Family Celebrations"
+    ],
+    "badge": "Couture Design",
+    "isNew": true,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717400000000
+  },
+  {
+    "id": "indowest-002",
+    "slug": "fusion-tuxedo-bandhgala",
+    "name": "Modern Fusion Tuxedo Bandhgala",
+    "brand": "Royal Vastra",
+    "category": "Indo-Western Outfits",
+    "subcategory": "Fusion Jackets",
+    "description": "A striking hybrid of Indian bandhgala and British black-tie tuxedo. Features satin peaked lapels on a mandarin neck with concealed metallic zip placket.",
+    "price": 5799,
+    "originalPrice": 7999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80"
+    ],
+    "colors": [
+      "Midnight Onyx",
+      "Deep Wine"
+    ],
+    "sizes": [
+      "38 (S)",
+      "40 (M)",
+      "42 (L)",
+      "44 (XL)"
+    ],
+    "stock": 14,
+    "fabric": "Italian Suiting Poly-Viscose",
+    "occasion": [
+      "Formal & Evening Events",
+      "Engagement & Reception"
+    ],
+    "badge": "Exclusive",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1716900000000
+  },
+  {
+    "id": "indowest-003",
+    "slug": "open-front-embroidered-jacket-set",
+    "name": "Long Open-Front Embroidered Jacket Ensemble",
+    "brand": "Royal Vastra",
+    "category": "Indo-Western Outfits",
+    "subcategory": "Indo-Western Wedding Outfits",
+    "description": "Floor-skimming sheer georgette long coat embellished with metallic zari border worn over a fitted monochrome short kurta and tapered breeches.",
+    "price": 4299,
+    "originalPrice": 5999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1607346256330-dee7af15f7c5?w=800&q=80"
+    ],
+    "colors": [
+      "Ivory & Antique Gold",
+      "Pitch Black & Matte Gold"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 16,
+    "fabric": "Georgette & Silk Cotton",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Engagement & Reception"
+    ],
+    "badge": "Trending",
+    "isNew": true,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1717300000000
+  },
+  {
+    "id": "festive-001",
+    "slug": "mirror-work-georgette-kurta",
+    "name": "Handcrafted Mirror-Work Kurta Pajama",
+    "brand": "Royal Vastra",
+    "category": "Festive Essentials",
+    "subcategory": "Mirror-Work Kurtas",
+    "description": "Dazzling foil-mirror and resham threadwork across chest and cuffs. Creates captivating light reflections during Garba, Diwali, and Sangeet nights.",
+    "price": 1999,
+    "originalPrice": 2999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=800&q=80",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80"
+    ],
+    "colors": [
+      "Royal Blue",
+      "Canary Yellow",
+      "Crimson Red"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 32,
+    "fabric": "Georgette with Cotton Lining",
+    "occasion": [
+      "Festivals & Family Celebrations",
+      "Engagement & Reception"
+    ],
+    "badge": "Diwali Special",
+    "isNew": true,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717420000000
+  },
+  {
+    "id": "festive-002",
+    "slug": "woven-chanderi-silk-kurta-set",
+    "name": "Chanderi Silk Gold Zari Kurta Set",
+    "brand": "Royal Vastra",
+    "category": "Festive Essentials",
+    "subcategory": "Silk Kurta Sets",
+    "description": "Loomed in historic Chanderi, this lightweight silk kurta features delicate zari checks and a subtle sheer shimmer. Includes soft cotton churidar.",
+    "price": 2299,
+    "originalPrice": 3299,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=800&q=80"
+    ],
+    "colors": [
+      "Golden Mustard",
+      "Emerald Olive",
+      "Rust Bronze"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 25,
+    "fabric": "Chanderi Silk",
+    "occasion": [
+      "Pooja & Traditional Occasions",
+      "Festivals & Family Celebrations"
+    ],
+    "badge": "Festive Pick",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717100000000
+  },
+  {
+    "id": "festive-003",
+    "slug": "silk-blend-festive-waistcoat-under-999",
+    "name": "Printed Art Silk Festive Waistcoat",
+    "brand": "Royal Vastra",
+    "category": "Festive Essentials",
+    "subcategory": "Festive Waistcoats",
+    "description": "Affordable celebration jacket with digital baroque foil print and tailored mandarin collar. Pairs stylishly with basic white or black kurtas.",
+    "price": 849,
+    "originalPrice": 1299,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800&q=80"
+    ],
+    "colors": [
+      "Maroon",
+      "Dark Teal",
+      "Royal Gold"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 55,
+    "fabric": "Art Silk",
+    "occasion": [
+      "Festivals & Family Celebrations",
+      "Pooja & Traditional Occasions"
+    ],
+    "badge": "Under ₹999",
+    "isNew": false,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1716600000000
+  },
+  {
+    "id": "festive-004",
+    "slug": "bandhani-printed-festive-kurta",
+    "name": "Gujarati Bandhani Print Kurta",
+    "brand": "Royal Vastra",
+    "category": "Festive Essentials",
+    "subcategory": "Printed Kurtas",
+    "description": "Vibrant traditional tie-dye Bandhani micro-dots pattern on soft rayon silk. Light, flowy, and wrinkle-resistant.",
+    "price": 949,
+    "originalPrice": 1399,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?w=800&q=80"
+    ],
+    "colors": [
+      "Rani Pink",
+      "Deep Emerald",
+      "Sunrise Orange"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 40,
+    "fabric": "Rayon Silk",
+    "occasion": [
+      "Festivals & Family Celebrations",
+      "Casual"
+    ],
+    "badge": "Navratri Special",
+    "isNew": true,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1717200000000
+  },
+  {
+    "id": "new-001",
+    "slug": "contemporary-linen-tunic-kurta",
+    "name": "Contemporary Minimalist Linen Tunic",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Linen-Look Kurtas",
+    "description": "Clean lines and understated simplicity. Straight hem tunic with hidden button strip and ventilated linen weave. Ideal for destination weddings and relaxed sundowners.",
+    "price": 1299,
+    "originalPrice": 1799,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=800&q=80",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80"
+    ],
+    "colors": [
+      "Oatmeal Beige",
+      "Denim Mist",
+      "Terracotta"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 30,
+    "fabric": "Pure Linen Cotton",
+    "occasion": [
+      "Casual",
+      "Festivals & Family Celebrations"
+    ],
+    "badge": "New Arrival",
+    "isNew": true,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717500000000
+  },
+  {
+    "id": "new-002",
+    "slug": "velvet-collar-prince-coat-sherwani",
+    "name": "Prince Coat Royal Bandhgala Sherwani",
+    "brand": "Royal Vastra",
+    "category": "Sherwanis & Wedding Wear",
+    "subcategory": "Achkan Outfits",
+    "description": "Short prince coat silhouette with contrast velvet collar and cuffs, hand-stitched silk lining, and antique royal crest buttons.",
+    "price": 4799,
+    "originalPrice": 6499,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&q=80"
+    ],
+    "colors": [
+      "Midnight Blue & Wine",
+      "Jet Black & Gold"
+    ],
+    "sizes": [
+      "38 (S)",
+      "40 (M)",
+      "42 (L)",
+      "44 (XL)"
+    ],
+    "stock": 15,
+    "fabric": "Structured Suiting & Velvet",
+    "occasion": [
+      "Engagement & Reception",
+      "Wedding Ceremonies"
+    ],
+    "badge": "New Arrival",
+    "isNew": true,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1717510000000
+  },
+  {
+    "id": "new-003",
+    "slug": "dori-embroidered-short-kurta",
+    "name": "Dori Thread Embroidered Short Festive Kurta",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Short Kurtas",
+    "description": "Intricate dori cording embroidery framing the placket on lightweight slub cotton. Looks sharp paired with tapered denim or tailored trousers.",
+    "price": 1099,
+    "originalPrice": 1499,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?w=800&q=80"
+    ],
+    "colors": [
+      "Ivory & Maroon",
+      "Sage & White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 32,
+    "fabric": "Slub Cotton",
+    "occasion": [
+      "Casual",
+      "Pooja & Traditional Occasions"
+    ],
+    "badge": "New",
+    "isNew": true,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1717520000000
+  },
+  {
+    "id": "formal-006",
+    "slug": "tweed-textured-winter-nehru-jacket",
+    "name": "Textured Tweed Blend Winter Nehru Jacket",
+    "brand": "Royal Vastra",
+    "category": "Traditional Formal Wear",
+    "subcategory": "Nehru Jackets",
+    "description": "Warm herringbone tweed blend sleeveless jacket for chilly North Indian festive and wedding evenings. Tailored with satin pocket welts.",
+    "price": 1599,
+    "originalPrice": 2299,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800&q=80"
+    ],
+    "colors": [
+      "Grey Herringbone",
+      "Brown Houndstooth"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 20,
+    "fabric": "Wool-Poly Tweed Blend",
+    "occasion": [
+      "Formal & Evening Events",
+      "Wedding Ceremonies"
+    ],
+    "badge": "Winter Warm",
+    "isNew": false,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1716700000000
+  },
+  {
+    "id": "kurta-009",
+    "slug": "gota-patti-festive-kurta-set",
+    "name": "Rajasthani Gota Patti Silk Kurta Pajama",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Embroidered Kurtas",
+    "description": "Authentic gold gota ribbon appliquéd onto rich dupion silk. Distinctive festive shimmer for Diwali, weddings, and celebratory rituals.",
+    "price": 2199,
+    "originalPrice": 3199,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?w=800&q=80"
+    ],
+    "colors": [
+      "Kesariya Mustard",
+      "Ruby Crimson",
+      "Emerald Green"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 22,
+    "fabric": "Dupion Silk Blend",
+    "occasion": [
+      "Festivals & Family Celebrations",
+      "Wedding Ceremonies",
+      "Pooja & Traditional Occasions"
+    ],
+    "badge": "Festive Pick",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1716880000000
+  },
+  {
+    "id": "kurta-010",
+    "slug": "cotton-silk-short-kurta-under-999",
+    "name": "Cotton Silk Festive Everyday Short Kurta",
+    "brand": "Royal Vastra",
+    "category": "Kurtas & Kurta Sets",
+    "subcategory": "Short Kurtas",
+    "description": "Subtle sheen of silk blended with the comfort of cotton. Features neat contrast button detail and chest patch pocket.",
+    "price": 749,
+    "originalPrice": 1099,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=800&q=80"
+    ],
+    "colors": [
+      "Powder Blue",
+      "Peach Coral",
+      "Ivory White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 48,
+    "fabric": "Cotton Silk Blend",
+    "occasion": [
+      "Casual",
+      "Pooja & Traditional Occasions"
+    ],
+    "badge": "Under ₹999",
+    "isNew": false,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1716500000000
+  },
+  {
+    "id": "sherwani-007",
+    "slug": "maroon-velvet-embroidered-jodhpuri",
+    "name": "Maroon Velvet Embroidered Jodhpuri Set",
+    "brand": "Royal Vastra",
+    "category": "Sherwanis & Wedding Wear",
+    "subcategory": "Jodhpuri Suits",
+    "description": "Heavily structured deep maroon velvet Jodhpuri coat with gold thread collar embroidery, welt chest pocket with silk insert, and matching ivory silk breeches.",
+    "price": 7299,
+    "originalPrice": 9999,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1566737236500-c8ac43014a67?w=800&q=80"
+    ],
+    "colors": [
+      "Royal Maroon",
+      "Midnight Navy"
+    ],
+    "sizes": [
+      "38 (S)",
+      "40 (M)",
+      "42 (L)",
+      "44 (XL)"
+    ],
+    "stock": 10,
+    "fabric": "Plush Velvet & Raw Silk",
+    "occasion": [
+      "Wedding Ceremonies",
+      "Engagement & Reception"
+    ],
+    "badge": "Royal Couture",
+    "isNew": false,
+    "isFeatured": true,
+    "isActive": true,
+    "createdAt": 1717000000000
+  },
+  {
+    "id": "formal-007",
+    "slug": "monochrome-formal-ethnic-set",
+    "name": "Monochrome Minimalist Formal Ethnic Set",
+    "brand": "Royal Vastra",
+    "category": "Traditional Formal Wear",
+    "subcategory": "Formal Ethnic Sets",
+    "description": "All-black structured short kurta, tailored straight-fit trousers, and matching matte self-textured nehru jacket. Sleek, authoritative, and contemporary.",
+    "price": 3299,
+    "originalPrice": 4699,
+    "currency": "INR",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=80"
+    ],
+    "colors": [
+      "Pitch Black",
+      "Steel Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 18,
+    "fabric": "Poly-Viscose Suiting",
+    "occasion": [
+      "Formal & Evening Events",
+      "Festivals & Family Celebrations"
+    ],
+    "badge": "Signature",
+    "isNew": true,
+    "isFeatured": false,
+    "isActive": true,
+    "createdAt": 1717350000000
+  }
+]

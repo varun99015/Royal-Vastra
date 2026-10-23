@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --burgundy: #722F37;
+    --burgundy-deep: #541A21;
+    --ivory: #FAF6F0;
+    --beige: #D4C5A9;
+    --gold: #C5A572;
+    --charcoal: #1A1A2E;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #FAF8F5;
+    color: #1A1A2E;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, h4, .font-serif, .font-display {
+    font-family: 'Playfair Display', Georgia, serif;
+    letter-spacing: -0.01em;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 bg-burgundy hover:bg-burgundy-deep text-white font-medium px-6 py-3 rounded-none tracking-wider text-xs uppercase transition-all duration-300 shadow-sm hover:shadow-royal active:scale-[0.99] disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 border border-charcoal/20 hover:border-charcoal bg-transparent hover:bg-charcoal hover:text-white text-charcoal font-medium px-6 py-3 rounded-none tracking-wider text-xs uppercase transition-all duration-300 disabled:opacity-50;
+  }
+
+  .btn-gold {
+    @apply inline-flex items-center justify-center gap-2 bg-gold hover:bg-gold-dark text-white font-medium px-6 py-3 rounded-none tracking-wider text-xs uppercase transition-all duration-300 shadow-sm active:scale-[0.99];
+  }
+
+  .btn-outline-gold {
+    @apply inline-flex items-center justify-center gap-2 border border-gold text-gold-dark hover:bg-gold hover:text-white font-medium px-6 py-3 rounded-none tracking-wider text-xs uppercase transition-all duration-300;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-1.5 text-burgundy hover:text-burgundy-deep font-medium py-2 px-3 hover:bg-burgundy/5 transition-all text-xs tracking-wider uppercase;
+  }
+
+  .badge-tag {
+    @apply text-[10px] uppercase tracking-widest font-semibold px-2.5 py-1 rounded-none inline-block;
+  }
+
+  .gold-divider {
+    @apply w-16 h-[2px] bg-gold/70 mx-auto;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F4ECE1;
+}
+::-webkit-scrollbar-thumb {
+  background: #C5A572;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #722F37;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
