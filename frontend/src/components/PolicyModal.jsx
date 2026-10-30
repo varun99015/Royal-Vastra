@@ -43,7 +43,7 @@ export default function PolicyModal({ type, onClose }) {
             <li>Custom tailored or bespoke altered pieces are final sale unless a manufacturing defect exists.</li>
           </ul>
           <p>
-            <strong>How to Initiate:</strong> Reach out to our concierge via WhatsApp (+91 98765 43210) or email us at concierge@royalvastra.com with your Order ID. Our logistics partner will pick up the parcel from your doorstep.
+            <strong>How to Initiate:</strong> Reach out to our concierge via WhatsApp (+91 6363427278) or email us at concierge@royalvastra.com with your Order ID. Our logistics partner will pick up the parcel from your doorstep.
           </p>
         </div>
       ),

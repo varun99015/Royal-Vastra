@@ -7,7 +7,7 @@ export default function AnnouncementBar() {
   const [settings, setSettings] = useState({
     announcementText: 'Wedding Season Collection 2026 Live • Complimentary Shipping Over ₹999 • Bespoke WhatsApp Stylist Available',
     whatsappNumber: '916363427278',
-    phone: '+91 98765 43210',
+    phone: '+91 6363427278',
   });
 
   useEffect(() => {
@@ -43,7 +43,7 @@ export default function AnnouncementBar() {
         <div className="hidden md:flex items-center gap-3 text-beige/80">
           <a href={`tel:${settings.phone || '+916363427278'}`} className="flex items-center gap-1.5 hover:text-white transition-colors">
             <Phone className="w-3 h-3 text-gold" />
-            <span>{settings.phone || '+91 98765 43210'}</span>
+            <span>{settings.phone || '+91 6363427278'}</span>
           </a>
         </div>
       </div>
