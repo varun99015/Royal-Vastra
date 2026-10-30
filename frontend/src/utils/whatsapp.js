@@ -3,7 +3,7 @@
  * Official click-to-chat format: https://wa.me/<number>?text=<encoded_text>
  */
 
-export const DEFAULT_WHATSAPP_NUMBER = '919876543210';
+export const DEFAULT_WHATSAPP_NUMBER = '916363427278';
 
 export function getCleanWhatsAppNumber(rawNumber) {
   if (!rawNumber) return DEFAULT_WHATSAPP_NUMBER;

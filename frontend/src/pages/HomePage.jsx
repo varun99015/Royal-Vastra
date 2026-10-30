@@ -29,7 +29,7 @@ export default function HomePage() {
   const [loading, setLoading] = useState(true);
   const [settings, setSettings] = useState({
     storeName: 'Royal Vastra',
-    whatsappNumber: '919876543210',
+    whatsappNumber: '916363427278',
   });
 
   useEffect(() => {

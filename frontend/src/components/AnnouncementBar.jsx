@@ -6,7 +6,7 @@ import { MessageCircle, Sparkles, Truck, Phone } from 'lucide-react';
 export default function AnnouncementBar() {
   const [settings, setSettings] = useState({
     announcementText: 'Wedding Season Collection 2026 Live • Complimentary Shipping Over ₹999 • Bespoke WhatsApp Stylist Available',
-    whatsappNumber: '919876543210',
+    whatsappNumber: '916363427278',
     phone: '+91 98765 43210',
   });
 
@@ -17,7 +17,7 @@ export default function AnnouncementBar() {
           setSettings((prev) => ({ ...prev, ...res.data }));
         }
       })
-      .catch(() => {});
+      .catch(() => { });
   }, []);
 
   const handleWhatsApp = () => {
@@ -41,7 +41,7 @@ export default function AnnouncementBar() {
 
         {/* Right: Phone / Contact */}
         <div className="hidden md:flex items-center gap-3 text-beige/80">
-          <a href={`tel:${settings.phone || '+919876543210'}`} className="flex items-center gap-1.5 hover:text-white transition-colors">
+          <a href={`tel:${settings.phone || '+916363427278'}`} className="flex items-center gap-1.5 hover:text-white transition-colors">
             <Phone className="w-3 h-3 text-gold" />
             <span>{settings.phone || '+91 98765 43210'}</span>
           </a>

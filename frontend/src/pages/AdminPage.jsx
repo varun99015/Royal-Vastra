@@ -325,11 +325,10 @@ export default function AdminPage() {
         <button
           type="button"
           onClick={() => setActiveTab('products')}
-          className={`pb-3 flex items-center gap-2 transition-colors ${
-            activeTab === 'products'
+          className={`pb-3 flex items-center gap-2 transition-colors ${activeTab === 'products'
               ? 'border-b-2 border-burgundy text-burgundy'
               : 'text-charcoal/60 hover:text-charcoal'
-          }`}
+            }`}
         >
           <Package className="w-4 h-4" />
           <span>Products ({products.length})</span>
@@ -338,11 +337,10 @@ export default function AdminPage() {
         <button
           type="button"
           onClick={() => setActiveTab('orders')}
-          className={`pb-3 flex items-center gap-2 transition-colors ${
-            activeTab === 'orders'
+          className={`pb-3 flex items-center gap-2 transition-colors ${activeTab === 'orders'
               ? 'border-b-2 border-burgundy text-burgundy'
               : 'text-charcoal/60 hover:text-charcoal'
-          }`}
+            }`}
         >
           <ShoppingBag className="w-4 h-4" />
           <span>Orders ({orders.length})</span>
@@ -351,11 +349,10 @@ export default function AdminPage() {
         <button
           type="button"
           onClick={() => setActiveTab('settings')}
-          className={`pb-3 flex items-center gap-2 transition-colors ${
-            activeTab === 'settings'
+          className={`pb-3 flex items-center gap-2 transition-colors ${activeTab === 'settings'
               ? 'border-b-2 border-burgundy text-burgundy'
               : 'text-charcoal/60 hover:text-charcoal'
-          }`}
+            }`}
         >
           <Settings className="w-4 h-4" />
           <span>Store Settings</span>
@@ -414,9 +411,8 @@ export default function AdminPage() {
                     </td>
                     <td className="p-3">
                       <span
-                        className={`text-[10px] uppercase font-bold px-2 py-0.5 ${
-                          prod.isActive !== false ? 'bg-emerald-100 text-emerald-800' : 'bg-red-100 text-red-800'
-                        }`}
+                        className={`text-[10px] uppercase font-bold px-2 py-0.5 ${prod.isActive !== false ? 'bg-emerald-100 text-emerald-800' : 'bg-red-100 text-red-800'
+                          }`}
                       >
                         {prod.isActive !== false ? 'Active' : 'Inactive'}
                       </span>
@@ -460,11 +456,10 @@ export default function AdminPage() {
                 key={st}
                 type="button"
                 onClick={() => setOrderFilter(st)}
-                className={`px-3 py-1 text-xs uppercase tracking-wider font-semibold border transition-colors ${
-                  orderFilter === st
+                className={`px-3 py-1 text-xs uppercase tracking-wider font-semibold border transition-colors ${orderFilter === st
                     ? 'bg-burgundy text-white border-burgundy'
                     : 'bg-white border-beige/60 text-charcoal/80 hover:border-charcoal'
-                }`}
+                  }`}
               >
                 {st.replace(/_/g, ' ')}
               </button>
@@ -552,7 +547,7 @@ export default function AdminPage() {
               <label className="block text-xs font-semibold text-charcoal mb-1">Store WhatsApp Number (Intl format)</label>
               <input
                 type="text"
-                placeholder="919876543210"
+                placeholder="916363427278"
                 value={settingsForm.whatsappNumber || ''}
                 onChange={(e) => setSettingsForm({ ...settingsForm, whatsappNumber: e.target.value })}
                 className="w-full px-3 py-2 text-xs bg-ivory/50 border border-beige/70"

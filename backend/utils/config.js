@@ -11,7 +11,7 @@ const config = {
   store: {
     name: process.env.STORE_NAME || 'Royal Vastra',
     currency: process.env.STORE_CURRENCY || 'INR',
-    whatsappNumber: process.env.STORE_WHATSAPP_NUMBER || '919876543210',
+    whatsappNumber: process.env.STORE_WHATSAPP_NUMBER || '916363427278',
     address: process.env.STORE_ADDRESS || '',
     email: process.env.STORE_EMAIL || '',
     phone: process.env.STORE_PHONE || '',
